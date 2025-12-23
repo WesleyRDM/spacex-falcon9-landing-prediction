@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-"""Visual_Analytics_Folium.ipynb
 
 import folium
 import pandas as pd
