@@ -11,8 +11,8 @@ import joblib
 # -----------------------------
 # 1. Load Data
 # -----------------------------
-data = pd.read_csv('dataset1.csv')
-X = pd.read_csv('dataset2.csv')
+data = pd.read_csv('datasets/dataset1.csv')
+X = pd.read_csv('datasets/dataset2.csv')
 y = data["Class"].to_numpy()
 
 # -----------------------------
